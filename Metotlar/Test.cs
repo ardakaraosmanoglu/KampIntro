@@ -5,7 +5,7 @@ namespace Metotlar
     {
         public Test()
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test1");
         }
     }
 }
