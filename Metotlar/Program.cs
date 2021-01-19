@@ -6,11 +6,10 @@ namespace Metotlar
     {
         public static void Main(string[] args)
         {
-            string urunAdi = "Elma";
-            double fiyati = 15;
-            string aciklama = "Amasya Elmasi";
-
-            string[] meyveler = new string[] { "Elma", "Karpuz" };
+            // string urunAdi = "Elma";
+            // double fiyati = 15;
+            // string aciklama = "Amasya Elmasi";
+            // string[] meyveler = new string[] { "Elma", "Karpuz" };
 
             Urun urun1 = new Urun();
             urun1.Adi = ("Elma");
