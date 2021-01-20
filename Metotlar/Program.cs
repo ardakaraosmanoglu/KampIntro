@@ -19,7 +19,7 @@ namespace Metotlar
             Urun urun2 = new Urun();
             urun2.Adi = ("Karpuz");
             urun2.Fiyati = 80;
-            urun2.Aciklama = "Diyerbakir karpuzu";
+            urun2.Aciklama = "Diyerbakir karpuzu";  
 
             Urun[] urunler = new Urun[] { urun1, urun2 };
 
