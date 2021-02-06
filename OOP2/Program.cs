@@ -18,7 +18,7 @@ namespace OOP2
             TuzelMusteri musteri2 = new TuzelMusteri();
             musteri2.Id = 2;
             musteri2.CustomerId = "54321";
-            musteri2.BusinessName = "Kodlama.io";
+            musteri2.CompanyNo = "Kodlama.io";
             musteri2.TaxNo = "1234567890";
 
             // Gercek Musteri = TUzel Musteri
