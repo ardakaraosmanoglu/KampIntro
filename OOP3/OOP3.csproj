@@ -32,7 +32,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="KrediManager.cs" />
+    <Compile Include="IKrediManager.cs" />
     <Compile Include="KonutKrediManager.cs" />
     <Compile Include="TasitKrediManager.cs" />
     <Compile Include="IhtiyacKrediManager.cs" />
